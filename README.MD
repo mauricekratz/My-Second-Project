@@ -1,3 +1,3 @@
 # My Second Project
 
-Second time 
+Second time around
